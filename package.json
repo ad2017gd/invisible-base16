@@ -1,6 +1,6 @@
 {
   "name": "invisible-base16",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Hex encoding, but invisible",
   "main": "index.js",
   "scripts": {
