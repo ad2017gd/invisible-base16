@@ -1,0 +1,24 @@
+{
+  "name": "invisible-base16",
+  "version": "1.0.0",
+  "description": "Hex encoding, but invisible",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ad2017gd/invisible-base16.git"
+  },
+  "keywords": [
+    "hex",
+    "base16",
+    "invisible"
+  ],
+  "author": "ad2017gd",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ad2017gd/invisible-base16/issues"
+  },
+  "homepage": "https://github.com/ad2017gd/invisible-base16#readme"
+}
